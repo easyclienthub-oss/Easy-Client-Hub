@@ -24,4 +24,4 @@ https://easyclienthub.com/blog/
 
 ## Contact
 
-https://easyclienthub.com/contact/
+(https://easyclienthub.com/contact-us/)
